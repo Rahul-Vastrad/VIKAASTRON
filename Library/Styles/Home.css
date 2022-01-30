@@ -53,9 +53,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed; */
-    height: 100vh;
     width: 100vw;
-    position: relative;
     margin-top: 2vh;
 }
 
@@ -77,3 +75,12 @@
 .card {
     margin-top: 4vh !important;
 }
+
+.about-section {
+    padding: 100px;
+    text-align: center;
+    background-color: #000000;
+    color: white;
+    margin-top: 10vh;
+    height: 100vh;
+  }
