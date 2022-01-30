@@ -112,3 +112,48 @@
 .swatch label:hover {
     background: #eee
 }
+
+.sizeBtnCls{
+    border: 1px solid black;
+}
+
+.sizeBtnClsActive{
+    background-color: #000000;
+    color: white;
+}
+
+.whiteBtn{
+    border-radius: 50%;
+    background-color: white;
+    border: 1px solid black;
+    height: 3vh;
+    
+}
+
+.grayBtn{
+    border-radius: 50%;
+    background-color: gray;
+    border: 1px solid black;
+    height: 3vh;
+}
+
+.navyblueBtn{
+    border-radius: 50%;
+    background-color: navy;
+    border: 1px solid black;
+    height: 3vh;
+}
+
+.maroonBtn{
+    border-radius: 50%;
+    background-color: maroon;
+    border: 1px solid black;
+    height: 3vh;
+}
+
+.blackBtn{
+    border-radius: 50%;
+    background-color: black;
+    border: 1px solid black;
+    height: 3vh;
+}
