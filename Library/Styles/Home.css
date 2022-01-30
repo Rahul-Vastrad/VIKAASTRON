@@ -67,10 +67,10 @@
     color: #000000 !important;
 }
 
-.carousel-item {
+/* .carousel-item {
     height: 75vh;
     margin-top: 22vh;
-}
+} */
 
 .card {
     margin-top: 4vh !important;
@@ -84,3 +84,31 @@
     margin-top: 10vh;
     height: 100vh;
   }
+
+  .carousel {
+    position: relative;
+}
+
+.carousel-control-next-icon {
+    background-color: black;
+    border-radius: 50%;
+}
+
+.carousel-control-prev-icon {
+    background-color: black;
+    border-radius: 50%;
+}
+
+.swatch input:checked+label {
+    border: 1px solid #eee;
+    background: #000;
+    color: #fff
+}
+
+.swatch .color input:checked+label {
+    box-shadow: 0 0 2px 2px #d6d6d6
+}
+
+.swatch label:hover {
+    background: #eee
+}
