@@ -73,3 +73,7 @@
     height: 75vh;
     margin-top: 22vh;
 }
+
+.card {
+    margin-top: 4vh !important;
+}
